@@ -35,7 +35,7 @@ pyrsistent
 python-dateutil    
 pytz               
 PyWavelets         
-pywin32            
+       
 requests           
 rich               
 scikit-image       
